@@ -1,0 +1,1 @@
+javascript:alert(%22Hello!%20This%20is%20Javascript%20Eval,%20a%20tool%20made%20to%20easily%20run%20code%20on%20mobile.%20This%20is%20to%20help%20with%20debugging.%20Made%20with%20love%20by%20Kevin.%22);jsevalcode=0;while(jsevalcode!==null)%7Bjsevalcode=prompt('Enter%20your%20code.');try%7Balert(eval(jsevalcode))%7Dcatch(err)%7Balert(err.msg)%7D%7D
